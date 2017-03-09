@@ -1,0 +1,22 @@
+{
+  "name": "asynchronous-programming-the-end-of-the-loop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaklafleur/Asynchronous-Programming-The-End-of-The-Loop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaklafleur/Asynchronous-Programming-The-End-of-The-Loop/issues"
+  },
+  "homepage": "https://github.com/isaklafleur/Asynchronous-Programming-The-End-of-The-Loop#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
